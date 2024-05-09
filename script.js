@@ -14,4 +14,4 @@ var thetext = "En un lejano y misterioso bosque, vivía un grupo de" + var1 + "m
 //const selText = document.querySelector(".texto");
 //selText.textContent("TEST");
 
-document.querySelector(".text").textContent = "TEST";
+document.querySelector(".text").textContent = thetext;
